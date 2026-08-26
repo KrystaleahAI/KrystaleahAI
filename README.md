@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I build practical AI tools, care about responsible AI, and enjoy turning ideas into useful products.
+I build practical AI tools, operationalize responsible AI, and enjoy turning ideas into useful products.
 
 🔭 &nbsp;I'm currently working on **Agentic AI &amp; Gen AI Projects**  
 🌱 &nbsp;I'm currently learning **RAG, Agentic AI, Advanced Prompting**  
